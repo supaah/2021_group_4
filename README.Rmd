@@ -13,4 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 hello
 Updated by yogbas on 18032021
+<<<<<<< HEAD
 second update to check by yogbas
+=======
+
+Hello this is Signe's comment
+>>>>>>> 1f46195ae64f622405450747fb34253d24a4497f
